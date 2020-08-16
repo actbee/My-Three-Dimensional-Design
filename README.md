@@ -9,4 +9,6 @@ Also this is the first 3D model I have ever made. I still keep the final entity 
 
 You can find the video related to this project from: [bilibili](https://www.bilibili.com/video/BV1tp4y1v7cA).
 
-<img src="https://github.com/actbee/My-Three-Dimensional-Design/blob/master/1.png?raw=true"> 
+<img src="https://github.com/actbee/My-Three-Dimensional-Design/blob/master/1.jpg?raw=true"> 
+
+<img src="https://github.com/actbee/My-Three-Dimensional-Design/blob/master/3.png?raw=true">
